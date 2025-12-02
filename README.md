@@ -15,7 +15,7 @@
 <h2 align="center">💭 AI/ML Engineer | Intelligent Systems & Scalable Data Pipelines</h2>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-<img align="right" alt="coding" width="400" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZoeDd4cWVyOHd5d3o4eWJyYm91YzU2eHdpMmxuaDZ5Z3V6ZGFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZoeDd4cWVyOHd5d3o4eWJyYm91YzU2eHdpMmxuaDZ5Z3V6ZGFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 
 
